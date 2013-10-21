@@ -1,0 +1,24 @@
+{
+    "name": "components/tabledrag",
+    "type": "component",
+    "description": "Nestable table drag and drop sorting.",
+    "keywords": ["table", "drag", "drop", "sorting", "ordering", "nested set", "nested"],
+    "homepage": "https://github.com/dragonwize/tabledrag",
+    "license": "GPL2",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "js/tabledrag.js"
+            ],
+            "styles": [
+                "css/tabledrag.css"
+            ],
+            "files": [
+                "img/*.png"
+            ]
+        }
+    }
+}
