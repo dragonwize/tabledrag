@@ -4,7 +4,7 @@
     "description": "Nestable table drag and drop sorting.",
     "keywords": ["table", "drag", "drop", "sorting", "ordering", "nested set", "nested"],
     "homepage": "https://github.com/dragonwize/tabledrag",
-    "license": "GPL2",
+    "license": "GPL-2.0-or-later",
     "require": {
         "robloach/component-installer": "*"
     },
